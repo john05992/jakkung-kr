@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jakkung.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://jakkung.kr/sitemapx.xml
